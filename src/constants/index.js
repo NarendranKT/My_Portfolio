@@ -232,7 +232,7 @@ const   projects = [
       }
     ],
     image: content,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/NarendranKT/content_generator_chatgpt",
   },
   {
     name: "3D Shop",
@@ -253,7 +253,7 @@ const   projects = [
       },
     ],
     image: shirt,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/NarendranKT/3D-AiShopWeb",
   },
   {
     name: "Income and Expense tracker",
@@ -282,7 +282,7 @@ const   projects = [
       }
     ],
     image: income,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/NarendranKT/Income_Expenses_Tracker",
   },
   {
     name: "Blog App",
@@ -315,7 +315,7 @@ const   projects = [
       }
     ],
     image: blog,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/NarendranKT/Blog_Project_FullStack",
   },
 
 ];
